@@ -17,7 +17,7 @@ In the `10_clustering` directory you'll find `gaussian_mixture_clusters.ipynb` a
 
 Open your terminal and run the following lines in order: 
 
-1. `git clone git@github.com:rmratliffbrown/ml-genre-assignment.git`
+1. `git clone git@github.com:clarissaache/ml-spotify-song-genre-prediction`
 
 2. `cd ml-genre-assignment`
 
